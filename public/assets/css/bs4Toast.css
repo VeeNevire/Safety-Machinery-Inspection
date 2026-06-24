@@ -1,0 +1,51 @@
+.bs4ToastWrapper {
+  position: fixed;
+  z-index: 1;
+  left: 75%;
+  top: 80px;
+  width: 300px;
+  background-color: white;
+}
+
+.bs4Toasticonimage {
+  height: 15px;
+}
+
+.bs4Toasticon {
+  margin-right: 0.5rem;
+}
+
+.bs4ToastWrapper {
+  position: fixed;
+  z-index: 1;
+  left: 75%;
+  top: 80px;
+  width: 300px;
+  background-color: white;
+}
+
+.bs4Toasticonimage {
+  height: 15px;
+}
+
+.bs4Toasticon {
+  margin-right: 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .bs4ToastWrapper {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    top: 65px;
+  }
+
+  .bs4Toasticonimage {
+    height: 12px;
+  }
+
+  .bs4Toasticon {
+    margin-right: 0.25rem;
+  }
+}
