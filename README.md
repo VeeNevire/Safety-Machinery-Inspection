@@ -14,7 +14,7 @@ Aplikasi **Safety Machinery Inspection** adalah sistem monitoring dan inspeksi k
 - **OPL** — Data Operation Procedure Leader
 - **OMOB** — Data dokumen OMOB
 - **Agenda** — Kalender jadwal inspeksi
-- **Scan** — Pencarian mesin via nomor mesin
+- **Scan** — Pencarian mesin via scan/nomor mesin
 - **Riwayat** — Riwayat inspeksi per tanggal
 - **Laporan** — Export laporan ke Excel & PDF
 - **Manajemen Pengguna** — Level admin & user
