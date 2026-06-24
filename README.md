@@ -42,6 +42,6 @@ Aplikasi **Safety Machinery Inspection** adalah sistem monitoring dan inspeksi k
 
 ## Informasi
 
-Aplikasi ini dikembangkan oleh **PT. Corinthian Industries Indonesia**.
+Aplikasi ini dikembangkan untuk **PT. Corinthian Industries Indonesia**.
 
 **Untuk versi full dan informasi lebih lanjut, hubungi saya.**
