@@ -33,13 +33,6 @@ Aplikasi **Safety Machinery Inspection** adalah sistem monitoring dan inspeksi k
 - PhpSpreadsheet
 - Barcode Generator
 
-## Akun Demo
-
-| Username | Level | Password |
-|----------|-------|----------|
-| `admin` | Admin | `admin123` |
-| `user` | User | `user123` |
-
 ## Informasi
 
 Aplikasi ini dikembangkan untuk **PT. Corinthian Industries Indonesia**.
